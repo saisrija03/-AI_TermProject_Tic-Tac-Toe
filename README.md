@@ -3,14 +3,17 @@ AI Final project: Tic-Tac-Toe
 Implementation of Tic Tac Toe 
 
 Introduction:
+
 Artificial intelligence (or AI) is a computer program that can intelligently respond to the player’s moves. This game doesn’t introduce any complicated new concepts. 
 Two people play Tic Tac Toe against each other, and it is a 3 x 3 grid. One player is X, and the other player is O. Players take turns placing their X or O. 
 If a player gets three of their marks on the board in a row, column, or one of the two diagonals, they win. When the board fills up with neither player winning, the game ends in a draw.
 
 Programming Language:
+
 We will be using the python programming language (version 3.7) to build this project. The advantages of using python AI-based projects include less code, flexibility, simplicity, and consistency, and access to great libraries and frameworks for AI and its platform independence. 
 
 Algorithms used:
+
 We have created four Agents to play against each other.
 1. Minimax Agent
 2. Alpha beta Minimax Agent
