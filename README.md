@@ -1,5 +1,7 @@
 AI Final project: Tic-Tac-Toe 
+
 Implementation of Tic Tac Toe 
+
 Introduction:
 Artificial intelligence (or AI) is a computer program that can intelligently respond to the player’s moves. This game doesn’t introduce any complicated new concepts. 
 Two people play Tic Tac Toe against each other, and it is a 3 x 3 grid. One player is X, and the other player is O. Players take turns placing their X or O. 
