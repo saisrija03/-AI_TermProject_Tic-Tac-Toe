@@ -28,6 +28,9 @@ Q-Learning Algorithm: Q-Learning is a reinforcement-based algorithm where initia
 Instructions to run code:
 
 Run the file tictactoe.py 
+
 Enter agent1 and agent2 as shown in the console and select each algorithm and see how the agents play.
+
 Make sure you select 2 different agents for the Tic-Tac-Toe game.
+
 Run multiple times and check with multiple agents to compare which agent plays the game better.
