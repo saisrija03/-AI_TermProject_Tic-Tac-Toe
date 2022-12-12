@@ -18,11 +18,15 @@ We have created four Agents to play against each other.
 4. Q-Learning Agent
 
 Minimax Algorithm: Minimax is a type of backtracking algorithm used in game theory and decision-making to determine a player's best course of action, provided that your opponent is likewise playing well. In two-player turn-based games like Tic-Tac-Toe, it is frequently utilized. The two participants in Minimax are referred to as the maximizer and minimizer. The maximizer strives to achieve the maximum score, whereas the minimizer strives to achieve the lowest score.
+
 Alpha-Beta Minimax Algorithm: A modified variant of the minimax method is alpha-beta pruning. It is a minimax algorithm optimization approach. The Alpha-beta pruning to a standard minimax algorithm yields the same move as the regular approach, but it eliminates all the nodes that are merely slowing down the algorithm without having any significant bearing on the result. Thus, by cutting these nodes, the algorithm becomes quick. 
+
 Expectimax Algorithm: A game theory approach used to maximize expected utility is called the Expectimax search algorithm. It uses a Minimax algorithm variant. Expectimax does not assume made by Minimax that the opponent (the minimizer) performs optimally. This is helpful for simulating circumstances where adversarial agents behave haphazardly or inefficiently.
+
 Q-Learning Algorithm: Q-Learning is a reinforcement-based algorithm where initially agent has no idea about the environment. It learns about the environment by playing a few games and getting rewards. By obtaining rewards agents realize which move is good and which is not. This Agent should be trained in the game environment before it can be played with other players in the tournament.
 
 Instructions to run code:
+
 Run the file tictactoe.py 
 Enter agent1 and agent2 as shown in the console and select each algorithm and see how the agents play.
 Make sure you select 2 different agents for the Tic-Tac-Toe game.
